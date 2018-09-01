@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="320891" started-at="2018-09-01T06:39:33Z" finished-at="2018-09-01T06:44:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="320891" started-at="2018-09-01T06:39:33Z" finished-at="2018-09-01T06:44:54Z">
+      <class name="com.scp.orange.hrm.login.OrangeHRMLoginTest">
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="16893" started-at="2018-09-01T12:09:34Z" data-provider="data" finished-at="2018-09-01T12:09:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Username cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="13649" started-at="2018-09-01T12:09:51Z" data-provider="data" finished-at="2018-09-01T12:10:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaaa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Username cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="22558" started-at="2018-09-01T12:10:05Z" data-provider="data" finished-at="2018-09-01T12:10:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Username cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="24900" started-at="2018-09-01T12:10:27Z" data-provider="data" finished-at="2018-09-01T12:10:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="31054" started-at="2018-09-01T12:10:52Z" data-provider="data" finished-at="2018-09-01T12:11:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="23352" started-at="2018-09-01T12:11:23Z" data-provider="data" finished-at="2018-09-01T12:11:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password cannot be empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="42964" started-at="2018-09-01T12:11:47Z" data-provider="data" finished-at="2018-09-01T12:12:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="30329" started-at="2018-09-01T12:12:30Z" data-provider="data" finished-at="2018-09-01T12:13:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="40756" started-at="2018-09-01T12:13:00Z" data-provider="data" finished-at="2018-09-01T12:13:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+        <test-method status="PASS" signature="verifyUserLoginCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.orange.hrm.login.OrangeHRMLoginTest@47c62251]" name="verifyUserLoginCredentials" duration-ms="70608" started-at="2018-09-01T12:13:41Z" data-provider="data" finished-at="2018-09-01T12:14:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginCredentials -->
+      </class> <!-- com.scp.orange.hrm.login.OrangeHRMLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
