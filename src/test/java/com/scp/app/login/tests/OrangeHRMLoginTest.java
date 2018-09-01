@@ -15,6 +15,7 @@ public class OrangeHRMLoginTest {
 	//another develeoper added this line
 	
 	public static void main(String[] args) {
+		System.out.println("hi");
 		WebDriver driver = AppUtil.initializeBrowser(BrowserNames.Firefox, AppConstants.ORANGE_HRM_APP_URL);
 		OrangeHRMLogin page = PageFactory.initElements(driver, OrangeHRMLogin.class);
 		page.enterUserName("Admin");
